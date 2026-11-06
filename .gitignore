@@ -1,0 +1,30 @@
+# Local env and secrets — never commit
+.env
+.env.*
+!.env.example
+.local-secrets/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+.next/
+out/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tool caches and local scratch
+.cache/
+.playwright-mcp/
+.vscode/*
+!.vscode/settings.json
+.DS_Store
