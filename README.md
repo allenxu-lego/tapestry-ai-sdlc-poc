@@ -1,6 +1,6 @@
 # tapestry-ai-sdlc-poc
 
-AI 辅助软件交付（SDLC）的验证仓库。这里放的是"让 agent 参与需求 → 实现 → 评审 → 合并"这条流水线的最小闭环，不是业务系统本身。
+AI 辅助软件交付（SDLC）的验证仓库。这里放的是"让 agent 参与需求 → 实现 → 评审 → 合并"这条流水线的最小闭环，不是业务系统本身。流水线的分工与入口详见 [docs/workflow.md](docs/workflow.md)。
 
 ## 账号分工
 
